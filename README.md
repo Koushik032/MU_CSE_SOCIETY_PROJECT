@@ -190,7 +190,7 @@ The project aims to feel more like a modern production-ready university portal r
 ![Home Page](./frontend/public/images/readme/blog.png)
 
 ### Contact Page
-![Home Page](./frontend/public/images/readme/contact.png)
+![Home Page](./frontend/public/images/readme/contect.png)
 
 ### Login / Register
 ![Login Page](./frontend/public/images/readme/login.png)
